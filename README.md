@@ -4,6 +4,8 @@
 Data Engineer
 Debis
 codobingo
+--software developoment
+-MES engineering
 
 ###Projects 
 -MES
