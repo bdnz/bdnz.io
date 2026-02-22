@@ -14,7 +14,7 @@ Global Manufacturing Systems • MES • IoT • SQL • C# • Project Manageme
 </tr>
 </table>
 
-**Phone:** 801-644-8019  
+**Phone:** Please contact via email first 
 **Email:** burakdeniz54@gmail.com • burakdeniz@mail.weber.edu  
 **GitHub:** https://github.com/bdnz
 
