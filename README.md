@@ -16,8 +16,9 @@ Global Manufacturing Systems • MES • IoT • SQL • C# • Project Manageme
 
 **Phone:** Please contact via email first 
 **Email:** burakdeniz54@gmail.com • burakdeniz@mail.weber.edu  
-**GitHub:** https://github.com/bdnz
 **LinkedIn:** https://www.linkedin.com/in/deniz-burak/
+**GitHub:** https://github.com/bdnz
+
 
 ---
 
