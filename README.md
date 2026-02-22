@@ -1,4 +1,18 @@
-# Burak Deniz
+# Deniz, Burak
+
+<table>
+<tr>
+<td width="200">
+  <img src="FullSizeRender.jpg" alt="Deniz" width="180" style="border-radius: 10px;">
+</td>
+<td>
+  
+**IT Development Engineer**  
+Global Manufacturing Systems • MES • IoT • SQL • C# • Project Management  
+
+</td>
+</tr>
+</table>
 
 **Phone:** 801-644-8019  
 **Email:** burakdeniz54@gmail.com • burakdeniz@mail.weber.edu  
