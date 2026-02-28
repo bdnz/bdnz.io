@@ -47,13 +47,6 @@ Global Manufacturing Systems • MES • IoT • SQL • C# • Project Manageme
 
 ## Experience
 
-### Alfa Tech — Customer Support  
-**2009–2010, Istanbul, Turkey**  
-- Provided post‑sale support and resolved technical issues.  
-- Diagnosed device problems and ensured timely resolutions.  
-- Promoted to Team Leader for strong technical and leadership skills.  
-- Trained new team members and managed performance plans.  
-
 ### Debis Software Co — Technical Support  
 **2010–2011, Istanbul**  
 - Supported RacSys car rental software on‑site.  
@@ -127,13 +120,11 @@ Global Manufacturing Systems • MES • IoT • SQL • C# • Project Manageme
   GPA: 3.22  
 - **Weber State University** — AAS Computer Science  
   GPA: 3.21  
-- **Weber State University** — BS Computer Science (Senior)  
-  GPA: 3.23  
+- **Weber State University** — BS Computer Science  
+  GPA: 3.33  
 
 ---
 
 ## Awards
-
-- Kadir Has University Scholarship (~$4,000/semester)  
-- Weber State University Scholarship (~$5,000/semester)  
+ 
 - APS University — Operations Excellence Elite Graduate  
